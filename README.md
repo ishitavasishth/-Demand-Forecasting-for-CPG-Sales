@@ -1,4 +1,4 @@
-# 📦 Demand Forecasting in the CPG Industry (Prophet vs ARIMA)
+# Demand Forecasting in the CPG Industry (Prophet vs ARIMA)
 
 ## 🔍 Problem Statement
 In the CPG space, poor demand forecasting leads to inventory imbalances, stockouts, and missed sales opportunities. This project addresses a core business challenge: **predicting daily product demand for the next 90 days** to enable better inventory planning and operational decisions.
